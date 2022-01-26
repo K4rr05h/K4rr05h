@@ -20,8 +20,11 @@
 ---
 
 <img src="https://github-readme-stats.vercel.app/api?username=K4rr05h&show_icons=true&hide_border=true&count_private=true&theme=midnight-purple&icon_color=fad000" alt="Judymar">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=K4rr05h&count_private=true&theme=midnight-purple" alt="Judymar" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4rr05h&count_private=true&theme=midnight-purple" alt="Judymar" />
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=K4rr05h&theme=github)  
+
+![Profile views](https://gpvc.arturio.dev/K4rr05h)
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
