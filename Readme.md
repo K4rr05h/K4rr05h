@@ -17,6 +17,8 @@
 
 <br />
 
+---
+
 <img align="left" alt="Judymar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=K4rr05h&show_icons=true&hide_border=true" />
 
 <!-- ### Languages and Tools:
