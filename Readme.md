@@ -19,7 +19,7 @@
 
 ---
 
-<img align="left" alt="Judymar's Github Stats" color="black" src="https://github-readme-stats.vercel.app/api?username=K4rr05h&show_icons=true&hide_border=true" />
+<img align="left" alt="Judymar's Github Stats" background-color="black" src="https://github-readme-stats.vercel.app/api?username=K4rr05h&show_icons=true&hide_border=true" />
 
 <!-- ### Languages and Tools:
 
