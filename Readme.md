@@ -24,6 +24,8 @@
 <!--[Github Most Used Languages]-->
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4rr05h&hide_border=true&count_private=true&theme=midnight-purple" alt="Judymar" />
 
+![Snake animation](https://github.com/K4rr05h/K4rr05h/blob/output/github-contribution-grid-snake.svg)
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=K4rr05h&theme=github)  
 
 ![Profile views](https://gpvc.arturio.dev/K4rr05h)
