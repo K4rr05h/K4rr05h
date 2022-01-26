@@ -22,7 +22,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=K4rr05h&show_icons=true&hide_border=true&count_private=true&theme=midnight-purple&icon_color=fad000" alt="Judymar">
 
 <!--[Github Most Used Languages]-->
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4rr05h&hide_border=true&count_private=true&theme=midnight-purple" alt="Judymar" />
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?K4rr05h" frameborder="0"></iframe>
 
 ![Snake animation](https://github.com/K4rr05h/K4rr05h/blob/output/github-contribution-grid-snake.svg)
 
