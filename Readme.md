@@ -50,10 +50,10 @@
 [instagram]: https://www.instagram.com/silu_judy/
 [linkedin]: https://www.linkedin.com/in/judymar-júnior-4275b4117/
 
-<-- Not implemented yet -->
+<!-- Not implemented yet -->
 
-[website]:
+<!-- [website]:
 [webdevplaylist]: 
 [jsplaylist]: 
 [cssplaylist]: 
-[reactplaylist]: 
+[reactplaylist]:  -->
