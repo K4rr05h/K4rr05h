@@ -24,11 +24,9 @@
 <!--[Github Most Used Languages]-->
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4rr05h&count_private=true&theme=midnight-purple" alt="Judymar" />
 
-<!--[Github Activity Graph]-->
-(https://activity-graph.herokuapp.com/graph?username=K4rr05h&theme=github)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=K4rr05h&theme=github)  
 
-<!--[Profile Views]-->
-(https://gpvc.arturio.dev/K4rr05h)
+![Profile views](https://gpvc.arturio.dev/K4rr05h)
 
 <!-- ### Languages and Tools:
 
