@@ -5,7 +5,7 @@
 - 🔭 I'm a Unity/C# Programmer
 - 🔭 I'm a React.js Developer too
 - 🌱 I produce Flat Art Game Design
-- 🥅 2022 Goal : Produce at least 10 games for myself
+- 🥅 2022 Goal : Produce at least 2 games for myself
 - ⚡ Curiosity : I love to talk and learn new things.
 
 ### Connect with me:
