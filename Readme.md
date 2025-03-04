@@ -1,12 +1,10 @@
 # Hi there! My name is Judymar!
 
-## I'm a Father, Husband, Front-End Developer and a Game Artist!
+## I'm a Father, Front-End Developer and a Game Dev!
 
 - 🔭 I'm a Unity/C# Programmer
-- 🔭 I'm a React.js Developer too
-- 🌱 I produce Flat Art Game Design
-- 🥅 2023 Goal : Produce at least 2 games for myself
-- ⚡ Curiosity : I love to talk and learn new things.
+- 🔭 I'm a React.js Developer
+- 🔭 I'm a React Native Developer
 
 ### Connect with me:
 
